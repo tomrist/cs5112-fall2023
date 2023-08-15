@@ -28,7 +28,8 @@ etc.  Contact Carolina if you are having trouble getting onto it.
 ### Pre-requisites
 
 Familiarity with basic programming, algorithms, and data structures (at the
-level taught in a sophomore course), or permission of instructor.  
+level taught in a sophomore course), or permission of instructor. The course 
+will require programming in Python. 
 
 ### Requirements
 
