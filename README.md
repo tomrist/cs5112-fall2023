@@ -58,7 +58,7 @@ them.
 We expect students to attend lectures. We have reserved 10\% of final grades as 
 participation; the default will be that everyone gets the full 10\% but we
 reserve the right to start taking attendance or otherwise change how
-participation is alotted if lecture attendance/participation proves poor. We
+participation is alotted if lecture attendance/participation proves poor.
  
 
 
