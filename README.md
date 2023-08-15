@@ -1,5 +1,4 @@
-### Syllabus for CS 5112
-
+# Syllabus for CS 5112
 
 Welcome to CS 5112, Algorithms for Applications. This class covers fundamental
 algorithms and data structures used in current applications.  Algorithms include
