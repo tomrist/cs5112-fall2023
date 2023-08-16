@@ -3,7 +3,7 @@
 Welcome to CS 5112, Algorithms for Applications. This class covers fundamental
 algorithms and data structures used in current applications.  Algorithms include
 graph algorithms, hashing and streaming/sketching techniques. Applications will
-include select topics in machine learning, systems, security, and more.
+include select topics in systems, security, and more.
 
 Classroom: Bloomberg Center 131
 
