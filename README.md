@@ -17,7 +17,9 @@ Office hours: TBA
 
 TAs: 
 Yash Akhauri (ya255@cornell.edu),
-Justin Chiu (jtc257@cornell.edu), Carolina Ortega Perez (co255@cornell.edu), 
+Andrew Campbell (ac2458@cornell.edu),
+Justin Chiu (jtc257@cornell.edu), 
+Carolina Ortega Perez (co255@cornell.edu), 
 Subham Sahoo (sss284@cornell.edu)
 
 TA Office hours: TBA. You may also join the #office-hours channel on Slack for virtual OH and expect TA response in 24h.
