@@ -1,7 +1,7 @@
 # Resources
 
 ## Python
-- [Matplotlib](https://matplotlib.org/stable/tutorials/introductory/pyplot.html)
+- [pyplot tutorial](https://matplotlib.org/stable/tutorials/introductory/pyplot.html)
 
 ## LaTeX
 - [Overleaf](https://www.overleaf.com)
