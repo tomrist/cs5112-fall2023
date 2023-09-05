@@ -13,7 +13,8 @@ Instructors:
 
 Alex Conway (https://ajhconway.com/) and Tom Ristenpart (https://rist.tech.cornell.edu)
 
-Office hours: TBA
+Office hours: Tom 2:45-3:30pm Tuesdays (after lecture), Bloomber 273. Confirm with me
+before class that day ideally via email or Slack (otherwise I will free up the time). 
 
 TAs: 
 Yash Akhauri (ya255@cornell.edu),
@@ -22,7 +23,7 @@ Justin Chiu (jtc257@cornell.edu),
 Carolina Ortega Perez (co255@cornell.edu), 
 Subham Sahoo (sss284@cornell.edu)
 
-TA Office hours: TBA. You may also join the #office-hours channel on Slack for virtual OH and expect TA response in 24h.
+TA Office hours: These will be announced on our Slack instance. Please join the #office-hours channel on Slack for virtual OH and expect TA response in 24h.
 
 You will be invited to a class slack, which we will use for announcements, Q&A,
 etc.  Contact Carolina if you are having trouble getting onto it.
