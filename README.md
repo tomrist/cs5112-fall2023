@@ -44,7 +44,8 @@ and homeworks. You'll be graded according to the following:
 * Homeworks:  90% (each homework will count an equal amount)
 
 **Late Days.** Homeworks are due on the due date by 11:59:59pm EST. You can
-use in total 3 late days throughout the semester.
+use in total 3 late days throughout the semester. For every extra day beyond the 3
+days limit, there will be a deduction of 10% in the respective assignment.
 
 There will be several opportunities for extra credit, as well. The current plan
 is to have four or five homework assignments spread across the semester. Details and
